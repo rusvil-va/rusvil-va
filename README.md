@@ -26,19 +26,19 @@ AI helps me code faster, but I always **learn, adapt, and build from the docs fi
 ---
 
 ## 🧰 Tech Stack  
-# 🧠 Matching AI / Integration Badges
+### 🧠 Matching AI / Integration Badges
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-8A2BE2?style=for-the-badge)
 ![Vapi](https://img.shields.io/badge/Vapi-FF7B00?style=for-the-badge)
 ![Retell AI](https://img.shields.io/badge/Retell%20AI-00C4B3?style=for-the-badge)
 
-# ⚙️ Automation & Integration Tools
+### ⚙️ Automation & Integration Tools
 ![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)
 ![GoHighLevel](https://img.shields.io/badge/GoHighLevel-2E8B57?style=for-the-badge)
 ![VideoAsk](https://img.shields.io/badge/VideoAsk-00B2FF?style=for-the-badge)
 ![Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-# 🧩 And More
+### 🧩 And More
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
 ![API](https://img.shields.io/badge/API%20Integrations-5555FF?style=for-the-badge)
 
