@@ -30,7 +30,7 @@ AI helps me code faster, but I always **learn, adapt, and build from the docs fi
 ![GoHighLevel](https://img.shields.io/badge/GoHighLevel-00AEEF?style=for-the-badge&logo=highlevel&logoColor=white)
 ![Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude%20AI-8A2BE2?style=for-the-badge)
+![Anthropic](https://img.shields.io/badge/Anthropic-8A2BE2?style=for-the-badge)
 
 ---
 
