@@ -41,7 +41,7 @@ AI helps me code faster, but I always **learn, adapt, and build from the docs fi
 ### 🧩 And More
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
 ![API](https://img.shields.io/badge/API%20Integrations-5555FF?style=for-the-badge)
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Marketplace](https://img.shields.io/badge/Google%20Marketplace-34A853?style=for-the-badge&logo=google&logoColor=white)
 ![VideoAsk](https://img.shields.io/badge/VideoAsk-00B2FF?style=for-the-badge)
 
