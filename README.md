@@ -19,17 +19,10 @@ I’m an **Automation Specialist** passionate about connecting CRMs, APIs, and A
 ![GoHighLevel](https://img.shields.io/badge/GoHighLevel-00AEEF?style=for-the-badge&logo=highlevel&logoColor=white)
 ![Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude%20AI-8A2BE2?style=for-the-badge)
-![Rainmaker](https://img.shields.io/badge/RainmakerAI-1A73E8?style=for-the-badge)
+![Anthropic](https://img.shields.io/badge/Claude%20AI-8A2BE2?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Stats  
-![Russel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rusvil-va&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rusvil-va&layout=compact&theme=tokyonight)
-
----
 
 ## 🧩 Featured Projects  
 📁 [Automation Portfolio](https://github.com/rusvil-va/profile)  
@@ -39,5 +32,6 @@ I’m an **Automation Specialist** passionate about connecting CRMs, APIs, and A
 ---
 
 ### 🌐 Connect with Me  
-📧 data@roaimastermind.com  
+📧 rusvil.va@gmail.com
+📧 russel.villota@gmail.com
 💼 [LinkedIn](https://linkedin.com/in/rusvil-va)  
