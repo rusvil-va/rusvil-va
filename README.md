@@ -8,19 +8,19 @@ I’m an **Automation Specialist** passionate about connecting CRMs, APIs, and A
 
 ## 🚀 What I Do
 
-I design and build **AI-powered automation systems** that connect business tools through API integrations.  
-My work involves combining **GoHighLevel**, **n8n**, **Google Apps Script**, and **custom code** to automate workflows, improve data flow, and create scalable AI-assisted processes.
+I build **AI-powered automations** that connect tools, CRMs, and APIs — simplifying complex workflows and enabling scalable systems for businesses.
 
-### ⚙️ API Integrations & Platforms
-- **OpenAI API** — ChatGPT, Assistants, Custom GPTs, Action Schemas  
-- **Anthropic API** — Claude and Claude Code  
-- **GoHighLevel (GHL)** — CRM, funnels, and automation sync  
-- **Vapi** and **Retell** — AI call and voice agents  
-- **Google Workspace APIs** — Sheets, Docs, Drive, and Marketplace apps  
-- **FirstPromoter**, **VideoAsk**, and other web app integrations
+### ⚙️ Platforms & Integrations
+- ⚙️ Automations with **n8n**, **GoHighLevel**, and **VideoAsk**  
+- 🤖 AI integrations using **OpenAI**, **Claude**, **Vapi**, and **Retell**  
+- 🧩 Google **Apps Script** & custom-built dashboards  
+- 🗂️ CRM and marketplace integrations with **Salesforce**, **LeadPerfection**, **ActiveProspect**, and **Google Workspace**  
+- 🔗 Custom API connectors and webhook logic for multi-platform syncs  
 
-I rely on **API documentation** as my main source when building connections —  
-AI helps me speed up build time, but I always **learn and code from the docs first**.
+I rely on **API documentation** as my main source when building integrations —  
+AI helps me code faster, but I always **learn, adapt, and build from the docs first**.  
+> “If I know it, I do it. If I don’t, I learn it — then build it.”
+
 
 
 ---
