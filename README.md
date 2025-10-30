@@ -11,11 +11,11 @@ I’m an **Automation Specialist** passionate about connecting CRMs, APIs, and A
 I build **AI-powered automations** that connect tools, CRMs, and APIs — simplifying complex workflows and enabling scalable systems for businesses.
 
 ### ⚙️ Platforms & Integrations
-- ⚙️ Automations with **n8n**, **GoHighLevel**, and **VideoAsk**  
-- 🤖 AI integrations using **OpenAI**, **Claude**, **Vapi**, and **Retell**  
+- ⚙️ Automations with **n8n**, **GoHighLevel**, and **Zapier**  
+- 🤖 AI integrations using **OpenAI**, **Anthorpic**, **Vapi**, and **Retell**
 - 🧩 Google **Apps Script** & custom-built dashboards  
 - 🗂️ CRM and marketplace integrations with **Salesforce**, **LeadPerfection**, **ActiveProspect**, and **Google Workspace**  
-- 🔗 Custom API connectors and webhook logic for multi-platform syncs  
+- 🔗 Custom API connectors and webhook logic for multi-platform syncs including Google **Workspace** and **Marketplace**
 
 I rely on **API documentation** as my main source when building integrations —  
 AI helps me code faster, but I always **learn, adapt, and build from the docs first**.  
