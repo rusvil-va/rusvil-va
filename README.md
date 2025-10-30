@@ -12,7 +12,7 @@ I build **AI-powered automations** that connect tools, CRMs, and APIs — simpli
 
 ### ⚙️ Platforms & Integrations
 - ⚙️ Automations with **n8n**, **GoHighLevel**, and **Zapier**  
-- 🤖 AI integrations using **OpenAI**, **Anthorpic**, **Vapi**, and **Retell**
+- 🤖 AI integrations using **OpenAI**, **Anthropic**, **Vapi**, and **Retell**
 - 🧩 Google **Apps Script** & custom-built dashboards  
 - 🗂️ CRM and marketplace integrations with **Salesforce**, **LeadPerfection**, **ActiveProspect**, and **Google Workspace**  
 - 🔗 Custom API connectors and webhook logic for multi-platform syncs including Google **Workspace** and **Marketplace**
