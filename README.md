@@ -32,6 +32,5 @@ I’m an **Automation Specialist** passionate about connecting CRMs, APIs, and A
 ---
 
 ### 🌐 Connect with Me  
-📧 rusvil.va@gmail.com
-📧 russel.villota@gmail.com
-💼 [LinkedIn](https://linkedin.com/in/rusvil-va)  
+📧 rusvil.va@gmail.com  
+📧 russel.villota@gmail.com  
