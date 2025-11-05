@@ -48,5 +48,5 @@ AI helps me code faster, but I always **learn, adapt, and build from the docs fi
 ---
 
 ### 🌐 Connect with Me  
-📧 rusvil.va@gmail.com  
+🤳+63 976 056 1711  
 📧 russel.villota@gmail.com  
