@@ -45,15 +45,6 @@ AI helps me code faster, but I always **learn, adapt, and build from the docs fi
 ![Google Marketplace](https://img.shields.io/badge/Google%20Marketplace-34A853?style=for-the-badge&logo=google&logoColor=white)
 ![VideoAsk](https://img.shields.io/badge/VideoAsk-00B2FF?style=for-the-badge)
 
-
----
-
-
-## 🧩 Featured Projects  
-📁 [Automation Portfolio](https://github.com/rusvil-va/profile)  
-📁 [n8n Workflows](https://github.com/rusvil-va/n8n-projects)  
-📁 [Apps Script Projects](https://github.com/rusvil-va/apps-script-projects)  
-
 ---
 
 ### 🌐 Connect with Me  
